@@ -17,10 +17,13 @@ Addicted to always knowing new things, that's why I immersed myself in the fanta
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alessandro-baldassarre&show_icons=true&locale=en&layout=compact" alt="alessandro-baldassarre" /></p>
 
 <br>
+<br>
+<br>
 
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ale__balda" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/png/twitter.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/alessandro-baldassarre-7561b5241/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/alessandro-baldassarre-7561b5241/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alessandro-baldassarre-7561b5241" height="30" width="40" /></a>
+<a href="https://twitter.com/ale__balda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ale__balda" height="30" width="40" /></a>
 </p>
 <!--
 **alessandro-baldassarre/alessandro-baldassarre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -4,6 +4,7 @@
 Addicted to always knowing new things, that's why I immersed myself in the fantastic world of programming where you have to constantly learn new notions and there is no limit to curiosity. Extremely enthusiastic about the Web3 world (Blockchain, NFT, DeFi ..)</h3>
 <br>
 
+- 🌱  I’m currently learning Solidity
 
 
 

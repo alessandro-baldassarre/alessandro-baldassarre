@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alessandro</h1>
-<h3 align="center">Smart Contract Developer (Wasm) & Full Stack Web Developer</h3>
+<h3 align="center">Full Stack Web Developer</h3>
 <h3 align="center">Always passionate about technology and innovation.
 Addicted to always knowing new things, that's why I immersed myself in the fantastic world of programming where you have to constantly learn new notions and there is no limit to curiosity. Extremely enthusiastic about the Web3 world (Blockchain, NFT, DeFi ..)</h3>
 <br>
